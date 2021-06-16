@@ -21,12 +21,6 @@
 	    "link": "history"
 	  }
   ],
-  "user": [
-    {
-      "id": 1,
-      "name": "hiroko"
-    }
-  ],
   "drill":[
 	  {
 			"info": {
@@ -41,8 +35,7 @@
 				    { "text": "Yes, I do." },
 				    { "text": "Yes, I am." },
 				    { "text": "Yes, it is.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 1,
 					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
@@ -50,8 +43,7 @@
 				    { "text": "Yes, she is." },
 				    { "text": "Yes, I am.", "correct": true },
 				    { "text": "Yes, I do." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 2,
 					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
@@ -59,8 +51,7 @@
 				    { "text": "Yes, I am." },
 				    { "text": "Yes, it is." },
 				    { "text": "Yes, I do.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 3,
 					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
@@ -68,8 +59,7 @@
 				    { "text": "Yes, he is.", "correct": true },
 				    { "text": "Yes, it is." },
 				    { "text": "Yes, I am." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 4,
 					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
@@ -77,8 +67,7 @@
 				    { "text": "Yes, they do.", "correct": true },
 				    { "text": "Yes, they are." },
 				    { "text": "Yes, she does." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  }
 		  ]
 		},
@@ -91,28 +80,23 @@
 			"questions":[
 			  { "id": 0,
 			    "text" : "5 + 10 =",
-					"answer" : 15,
-					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+					"answer" : 15
 			  },
 			  { "id": 1,
 			    "text" : "11 - 6 =",
-					"answer" : 5,
-					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+					"answer" : 5
 			  },
 			  { "id": 2,
 			    "text" : "2 + 7 =",
-					"answer" : 9,
-					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+					"answer" : 9
 				},
 			  { "id": 3,
 			    "text" : "13 × 10 =",
-					"answer" : 130,
-					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+					"answer" : 130
 			  },
 			  { "id": 4,
 			    "text" : "20 ÷ 5 =",
-					"answer" : 4,
-					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+					"answer" : 4
 			  }
 		  ]
 		},
@@ -126,47 +110,37 @@
 			  { "id": 0,
 					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
 			    "responses": [
-				    { "text": "Yes, I do." },
 				    { "text": "Yes, I am." },
 				    { "text": "Yes, it is.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 1,
 					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
 			    "responses": [
-				    { "text": "Yes, she is." },
 				    { "text": "Yes, I am.", "correct": true },
 				    { "text": "Yes, I do." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 2,
 					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
 			    "responses": [
 				    { "text": "Yes, I am." },
-				    { "text": "Yes, it is." },
 				    { "text": "Yes, I do.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 3,
 					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
 			    "responses": [
 				    { "text": "Yes, he is.", "correct": true },
-				    { "text": "Yes, it is." },
 				    { "text": "Yes, I am." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 4,
 					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
 			    "responses": [
 				    { "text": "Yes, they do.", "correct": true },
-				    { "text": "Yes, they are." },
 				    { "text": "Yes, she does." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  }
 		  ]
 		},
@@ -181,46 +155,36 @@
 					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
 			    "responses": [
 				    { "text": "Yes, I do." },
-				    { "text": "Yes, I am." },
 				    { "text": "Yes, it is.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 1,
 					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
 			    "responses": [
-				    { "text": "Yes, she is." },
 				    { "text": "Yes, I am.", "correct": true },
 				    { "text": "Yes, I do." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 2,
 					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
 			    "responses": [
 				    { "text": "Yes, I am." },
-				    { "text": "Yes, it is." },
 				    { "text": "Yes, I do.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 3,
 					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
 			    "responses": [
 				    { "text": "Yes, he is.", "correct": true },
-				    { "text": "Yes, it is." },
 				    { "text": "Yes, I am." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 4,
 					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
 			    "responses": [
 				    { "text": "Yes, they do.", "correct": true },
-				    { "text": "Yes, they are." },
 				    { "text": "Yes, she does." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  }
 		  ]
 		},
@@ -235,46 +199,36 @@
 					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
 			    "responses": [
 				    { "text": "Yes, I do." },
-				    { "text": "Yes, I am." },
 				    { "text": "Yes, it is.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 1,
 					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
 			    "responses": [
-				    { "text": "Yes, she is." },
 				    { "text": "Yes, I am.", "correct": true },
 				    { "text": "Yes, I do." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 2,
 					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
 			    "responses": [
 				    { "text": "Yes, I am." },
-				    { "text": "Yes, it is." },
 				    { "text": "Yes, I do.", "correct": true }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			    ]
 			  },
 			  { "id": 3,
 					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
 			    "responses": [
 				    { "text": "Yes, he is.", "correct": true },
-				    { "text": "Yes, it is." },
-				    { "text": "Yes, I am." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+				    { "text": "Yes, it is." }
+			    ]
 			  },
 			  { "id": 4,
 					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
 			    "responses": [
 				    { "text": "Yes, they do.", "correct": true },
-				    { "text": "Yes, they are." },
-				    { "text": "Yes, she does." }
-			    ],
-			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+				    { "text": "Yes, they are." }
+			    ]
 			  }
 		  ]
 		}
