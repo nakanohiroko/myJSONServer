@@ -26,5 +26,257 @@
       "id": 1,
       "name": "hiroko"
     }
+  ],
+  "drill":[
+	  {
+			"info": {
+				"title": "英語",
+				"description":"英語の詳細が入ります",
+				"questiontype":"picks"
+			},
+			"questions":[
+			  { "id": 0,
+					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
+			    "responses": [
+				    { "text": "Yes, I do." },
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 1,
+					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
+			    "responses": [
+				    { "text": "Yes, she is." },
+				    { "text": "Yes, I am.", "correct": true },
+				    { "text": "Yes, I do." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 2,
+					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
+			    "responses": [
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I do.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 3,
+					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
+			    "responses": [
+				    { "text": "Yes, he is.", "correct": true },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I am." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 4,
+					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
+			    "responses": [
+				    { "text": "Yes, they do.", "correct": true },
+				    { "text": "Yes, they are." },
+				    { "text": "Yes, she does." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  }
+		  ]
+		},
+		{
+			"info": {
+				"title": "数学",
+				"description":"数学の詳細が入ります",
+				"questiontype":"input"
+			},
+			"questions":[
+			  { "id": 0,
+			    "text" : "5 + 10 =",
+					"answer" : 15,
+					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+			  },
+			  { "id": 1,
+			    "text" : "11 - 6 =",
+					"answer" : 5,
+					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+			  },
+			  { "id": 2,
+			    "text" : "2 + 7 =",
+					"answer" : 9,
+					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+				},
+			  { "id": 3,
+			    "text" : "13 × 10 =",
+					"answer" : 130,
+					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+			  },
+			  { "id": 4,
+			    "text" : "20 ÷ 5 =",
+					"answer" : 4,
+					"caption" : ["テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"]
+			  }
+		  ]
+		},
+		{
+			"info": {
+				"title": "地理",
+				"description":"地理の詳細が入ります",
+				"questiontype":"picks"
+			},
+			"questions":[
+			  { "id": 0,
+					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
+			    "responses": [
+				    { "text": "Yes, I do." },
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 1,
+					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
+			    "responses": [
+				    { "text": "Yes, she is." },
+				    { "text": "Yes, I am.", "correct": true },
+				    { "text": "Yes, I do." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 2,
+					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
+			    "responses": [
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I do.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 3,
+					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
+			    "responses": [
+				    { "text": "Yes, he is.", "correct": true },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I am." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 4,
+					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
+			    "responses": [
+				    { "text": "Yes, they do.", "correct": true },
+				    { "text": "Yes, they are." },
+				    { "text": "Yes, she does." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  }
+		  ]
+		},
+		{
+			"info": {
+				"title": "化学",
+				"description":"化学の詳細が入ります",
+				"questiontype":"picks"
+			},
+			"questions":[
+			  { "id": 0,
+					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
+			    "responses": [
+				    { "text": "Yes, I do." },
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 1,
+					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
+			    "responses": [
+				    { "text": "Yes, she is." },
+				    { "text": "Yes, I am.", "correct": true },
+				    { "text": "Yes, I do." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 2,
+					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
+			    "responses": [
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I do.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 3,
+					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
+			    "responses": [
+				    { "text": "Yes, he is.", "correct": true },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I am." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 4,
+					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
+			    "responses": [
+				    { "text": "Yes, they do.", "correct": true },
+				    { "text": "Yes, they are." },
+				    { "text": "Yes, she does." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  }
+		  ]
+		},
+		{
+			"info": {
+				"title": "歴史",
+				"description":"歴史の詳細が入ります",
+				"questiontype":"picks"
+			},
+			"questions":[
+			  { "id": 0,
+					"text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
+			    "responses": [
+				    { "text": "Yes, I do." },
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 1,
+					"text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
+			    "responses": [
+				    { "text": "Yes, she is." },
+				    { "text": "Yes, I am.", "correct": true },
+				    { "text": "Yes, I do." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 2,
+					"text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
+			    "responses": [
+				    { "text": "Yes, I am." },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I do.", "correct": true }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 3,
+					"text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
+			    "responses": [
+				    { "text": "Yes, he is.", "correct": true },
+				    { "text": "Yes, it is." },
+				    { "text": "Yes, I am." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  },
+			  { "id": 4,
+					"text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
+			    "responses": [
+				    { "text": "Yes, they do.", "correct": true },
+				    { "text": "Yes, they are." },
+				    { "text": "Yes, she does." }
+			    ],
+			    "caption": "テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。"
+			  }
+		  ]
+		}
   ]
 }
