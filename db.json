@@ -56,7 +56,8 @@
               "text": "Yes, it is.",
               "correct": true
             }
-          ]
+          ],
+          "explanation": "解説が入ります。Appleはりんごです。"
         },
         {
           "id": 1,
@@ -72,7 +73,8 @@
             {
               "text": "Yes, I do."
             }
-          ]
+          ],
+          "explanation": "解説が入ります。teacherは先生です。"
         },
         {
           "id": 2,
@@ -88,7 +90,8 @@
               "text": "Yes, I do.",
               "correct": true
             }
-          ]
+          ],
+          "explanation": "解説が入ります。penはペンです。"
         },
         {
           "id": 3,
@@ -104,7 +107,8 @@
             {
               "text": "Yes, I am."
             }
-          ]
+          ],
+          "explanation": "解説が入ります。fatherは父です。"
         },
         {
           "id": 4,
@@ -120,7 +124,8 @@
             {
               "text": "Yes, she does."
             }
-          ]
+          ],
+          "explanation": "解説が入ります。sisterは姉です。"
         }
       ]
     },
@@ -134,27 +139,32 @@
         {
           "id": 0,
           "text": "5 + 10 =",
-          "answer": 15
+          "answer": 15,
+          "explanation": "解説が入ります。5と10を足してください。"
         },
         {
           "id": 1,
           "text": "11 - 6 =",
-          "answer": 5
+          "answer": 5,
+          "explanation": "解説が入ります。11から6引いてください。"
         },
         {
           "id": 2,
           "text": "2 + 7 =",
-          "answer": 9
+          "answer": 9,
+          "explanation": "解説が入ります。2と7を足してください。"
         },
         {
           "id": 3,
           "text": "13 × 10 =",
-          "answer": 130
+          "answer": 130,
+          "explanation": "解説が入ります。13と10をかけてください。"
         },
         {
           "id": 4,
           "text": "20 ÷ 5 =",
-          "answer": 4
+          "answer": 4,
+          "explanation": "解説が入ります。20を5で割ってください。"
         }
       ]
     },
