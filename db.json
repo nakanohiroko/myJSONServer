@@ -47,12 +47,15 @@
           "text": "次の疑問文の正しい答えを選ぼう。Is this an apple?",
           "responses": [
             {
+	            "optionid": 0,
               "text": "Yes, I do."
             },
             {
+	            "optionid": 1,
               "text": "Yes, I am."
             },
             {
+	            "optionid": 2,
               "text": "Yes, it is.",
               "correct": true
             }
@@ -64,13 +67,16 @@
           "text": "次の疑問文の正しい答えを選ぼう。Are you a teacher?",
           "responses": [
             {
+	            "optionid": 0,
               "text": "Yes, she is."
             },
             {
+	            "optionid": 1,
               "text": "Yes, I am.",
               "correct": true
             },
             {
+	            "optionid": 2,
               "text": "Yes, I do."
             }
           ],
@@ -81,12 +87,15 @@
           "text": "次の疑問文の正しい答えを選ぼう。Do you have a pen?",
           "responses": [
             {
+	            "optionid":0 ,
               "text": "Yes, I am."
             },
             {
+	            "optionid": 1,
               "text": "Yes, it is."
             },
             {
+	            "optionid": 2,
               "text": "Yes, I do.",
               "correct": true
             }
@@ -98,13 +107,16 @@
           "text": "次の疑問文の正しい答えを選ぼう。Is your father a teacher?",
           "responses": [
             {
+	            "optionid": 0,
               "text": "Yes, he is.",
               "correct": true
             },
             {
+	            "optionid": 1,
               "text": "Yes, it is."
             },
             {
+	            "optionid": 2,
               "text": "Yes, I am."
             }
           ],
@@ -115,13 +127,16 @@
           "text": "次の疑問文の正しい答えを選ぼう。Do your sisters play basketball?",
           "responses": [
             {
+	            "optionid": 0,
               "text": "Yes, they do.",
               "correct": true
             },
             {
+	            "optionid": 1,
               "text": "Yes, they are."
             },
             {
+	            "optionid": 2,
               "text": "Yes, she does."
             }
           ],
